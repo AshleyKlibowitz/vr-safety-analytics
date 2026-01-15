@@ -26,7 +26,12 @@ The table below illustrates how raw telemetry data was transformed into actionab
 | **Voice Toxicity** | `voice_vol_db: 88.5` | **Flag:** Volume > 80db correlates with 5x report rate. |
 | **Spatial Clustering** | `x: 5.2, y: 4.1` | **Insight:** Griefing events cluster in "Spawn Zones" (0-10 coords). |
 | **Asset Risk** | `asset_id: "gun_01"` | **Risk Score:** 32% "Toxic Conversion" rate for this item. |
-| **User Journey** | Timestamp Sequence | **Funnel:** Spawn Item → Scream → Report (Time to Ban < 60s). |
+| **User Journey** | Timestamp Sequence | **Funnel:** Spawn Item → Scream → Report (Time to Ban < 60s). 
+
+### 📊 Dashboard Visualization
+*A Tableau view demonstrating the spatial clustering of high-volume voice events and the identification of "Toxic Assets" (Gun vs. Cube).*
+
+<img width="1298" height="1488" alt="Dashboard 1" src="https://github.com/user-attachments/assets/36c29fba-1ff2-4cb4-8781-daccbc8e3076" />
 
 ## ✨ Functional Features
 
