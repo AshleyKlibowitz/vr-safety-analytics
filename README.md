@@ -29,9 +29,9 @@ The table below illustrates how raw telemetry data was transformed into actionab
 | **User Journey** | Timestamp Sequence | **Funnel:** Spawn Item → Scream → Report (Time to Ban < 60s). 
 
 ### 📊 Dashboard Visualization
-*A Tableau view demonstrating the spatial clustering of high-volume voice events and the identification of "Toxic Assets" (Gun vs. Cube).*
+*A Tableau dashboard identifying high-risk zones in virtual environments by correlating user density, voice volume spikes (dB), and "Touch" event telemetry.*
 
-<img width="1298" height="1488" alt="Dashboard 1" src="https://github.com/user-attachments/assets/36c29fba-1ff2-4cb4-8781-daccbc8e3076" />
+<img width="2438" height="1318" alt="Dashboard 1-2" src="https://github.com/user-attachments/assets/dd23b098-daca-4507-96eb-f0216cfe0111" />
 
 ## ✨ Functional Features
 
